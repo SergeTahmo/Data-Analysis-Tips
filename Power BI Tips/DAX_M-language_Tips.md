@@ -105,6 +105,6 @@ Executes              | At runtime                 | Before load (ETL)
 Syntax Style          | Excel-like, row/contextual | Functional programming
 Best For              | Metrics & logic            | Preprocessing & transformation
 
-Keep your DAX clean 💡
-Keep your M efficient 🛠
-Power BI rewards thoughtful modeling and scripting 🚀
+Keep your DAX clean 
+Keep your M efficient 
+Power BI rewards thoughtful modeling and scripting 
