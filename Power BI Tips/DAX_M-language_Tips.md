@@ -1,9 +1,9 @@
-# 🧠 Power BI DAX & M Language Tips
+### Power BI DAX & M Language Tips
 
 This guide includes essential scripting tips for DAX (Data Analysis Expressions) and M (Power Query) used in Power BI.
 
 ---------------------------------------------------
-🟨 Part 1: DAX Tips & Best Practices
+ Part 1: DAX Tips & Best Practices
 ---------------------------------------------------
 
 1. Create Measures, Not Calculated Columns
